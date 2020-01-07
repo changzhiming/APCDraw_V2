@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/arrow_thick_down.svg</file>
+        <file>image/arrow_thick_left.svg</file>
+        <file>image/arrow_thick_right.svg</file>
+        <file>image/arrow_thick_up.svg</file>
+        <file>image/arrow_two_left_right.svg</file>
+        <file>image/image_picture.svg</file>
+        <file>image/input_pen.png</file>
+        <file>image/press_button.svg</file>
+        <file>image/selection.svg</file>
+        <file>image/text_.svg</file>
+        <file>image/page_edit.png</file>
+        <file>image/+.png</file>
+        <file>image/copy.svg</file>
+        <file>image/delete.svg</file>
+        <file>image/paste.svg</file>
+        <file>image/browser_window.png</file>
+        <file>image/devices.svg</file>
+        <file>image/new.png</file>
+        <file>image/open.png</file>
+        <file>image/out.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>

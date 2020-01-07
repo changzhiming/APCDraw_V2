@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>APCCommon/Common.qml</file>
+        <file>APCCommon/qmldir</file>
+        <file>Control/ControlLabel.qml</file>
+        <file>APCCommon/APCScript_Control.js</file>
+        <file>Control/APCPageContainer.qml</file>
+        <file>Control/ControlButton.qml</file>
+        <file>Control/ControlImage.qml</file>
+        <file>Control/ControlInput.qml</file>
+        <file>Dialog/ButtonDialog.qml</file>
+        <file>Dialog/InputDialog.qml</file>
+        <file>Dialog/ImageDialog.qml</file>
+        <file>Dialog/LabelDialog.qml</file>
+        <file>Dialog/PageDialog.qml</file>
+        <file>APCCommon/DB_JS.js</file>
+        <file>functionControl/ZoomMouseArea.qml</file>
+        <file>Dialog/HintDialog.qml</file>
+        <file>Dialog/NewProjectDialog.qml</file>
+        <file>functionControl/WindowsMenu.qml</file>
+        <file>functionControl/DevicesMenu.qml</file>
+        <file>Dialog/DevicesDialog.qml</file>
+        <file>Dialog/ReportProjectDialog.qml</file>
+    </qresource>
+</RCC>
