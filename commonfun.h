@@ -4,6 +4,7 @@
 #include <QObject>
 #include <QUrl>
 
+
 class CommonFun : public QObject
 {
     Q_OBJECT
